@@ -1,0 +1,11 @@
+Process flow of uploading code in Github
+
+1) Initialise a Git Repo (One time process)
+
+2) Adding the files (detailed topic)
+
+3) Commiting the present state of the repo (heart and soul of git)
+   Commit => SS of the code at that particular timestamp
+
+
+   
