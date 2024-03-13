@@ -8,5 +8,3 @@ Process flow of uploading code in Github
    Commit => SS of the code at that particular timestamp
 
 GIT and GITHUB is not same 
-
-
